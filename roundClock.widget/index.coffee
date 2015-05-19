@@ -51,8 +51,8 @@ style: """
   /* Styles (mod if you want) */
   box-sizing: border-box
 
-  left: 0%
-  bottom: 0%
+  left: 50%
+  bottom: 50%
   margin-left: 15px * scale
   margin-bottom: 15px * scale
 
